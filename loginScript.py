@@ -1,3 +1,5 @@
+//Python script to login to facebook using Chrome web browser
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
